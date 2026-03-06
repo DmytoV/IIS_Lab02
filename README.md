@@ -1,3 +1,5 @@
+# Vochakovskyi Dmytro, PP-44, Lab 2. Practice working with Git-hub.
+
 # [Vue Paper Dashboard](https://cristijora.github.io/vue-paper-dashboard/)
 
 > Admin dashboard based on paper dashboard UI template + vue-router
